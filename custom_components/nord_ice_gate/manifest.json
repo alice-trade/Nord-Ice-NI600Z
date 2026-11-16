@@ -1,0 +1,1 @@
+{"domain":"nord_ice_gate","name":"Nord Ice Sliding Gate","version":"1.1.0","config_flow":true,"dependencies":["localtuya"],"documentation":"https://github.com/rospogrigio/localtuya","iot_class":"local_push"}

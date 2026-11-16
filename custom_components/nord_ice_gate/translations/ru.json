@@ -1,0 +1,27 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Устройство LocalTuya",
+        "description": "Выберите устройство или укажите Tuya Device ID вручную.",
+        "data": {
+          "device": "Устройство"
+        }
+      },
+      "settings": {
+        "title": "Параметры ворот",
+        "data": {
+          "name": "Название",
+          "device_id": "Tuya Device ID",
+          "reverse": "Обратное направление"
+        }
+      }
+    },
+    "error": {
+      "missing_device": "Укажите Tuya Device ID."
+    },
+    "abort": {
+      "already_configured": "Это устройство уже настроено."
+    }
+  }
+}
